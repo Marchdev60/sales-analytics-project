@@ -1,0 +1,21 @@
+﻿id_venda,data_venda,cliente,nome_produto,nome_categoria,nome_vendedor,nome_loja,cidade,estado,quantidade,valor_unitario,desconto,valor_total
+1,2025-01-15,Ana Silva,Smartphone Samsung Galaxy,Eletrônicos,Marcos Ribeiro,Loja Centro,Caxias do Sul,RS,2,2499.9,100.0,4899.8
+2,2025-01-22,Bruno Souza,Notebook Lenovo Ideapad,Informática,Juliana Mendes,Loja Porto Alegre,Porto Alegre,RS,1,3299.9,0.0,3299.9
+3,2025-02-05,Carla Oliveira,Mouse Logitech,Informática,Pedro Almeida,Loja Curitiba,Curitiba,PR,3,149.9,0.0,449.7
+4,2025-02-18,Daniel Santos,Smart TV 50 polegadas,Eletrônicos,Fernanda Gomes,Loja São Paulo,São Paulo,SP,1,2899.9,100.0,2799.9
+5,2025-03-03,Eduarda Costa,Mesa para Escritório,Móveis,Lucas Ferreira,Loja Belo Horizonte,Belo Horizonte,MG,2,799.9,50.0,1549.8
+6,2025-03-14,Felipe Pereira,Teclado Mecânico Hyperx,Informática,Marcos Ribeiro,Loja Centro,Caxias do Sul,RS,2,399.9,0.0,799.8
+7,2025-04-02,Gabriela Lima,Cadeira Escritório Ergonômica,Móveis,Juliana Mendes,Loja Porto Alegre,Porto Alegre,RS,1,1199.9,100.0,1099.9
+8,2025-04-19,Henrique Alves,Tablet Samsung Galaxy Tab,Eletrônicos,Pedro Almeida,Loja Curitiba,Curitiba,PR,2,1899.9,0.0,3799.8
+9,2025-05-08,Isabela Rocha,Headset Gamer,Acessórios,Fernanda Gomes,Loja São Paulo,São Paulo,SP,4,299.9,40.0,1159.6
+10,2025-05-21,João Martins,Monitor LG 24 Polegadas,Informática,Lucas Ferreira,Loja Belo Horizonte,Belo Horizonte,MG,1,899.9,0.0,899.9
+11,2025-06-10,Ana Silva,Estante de Madeira,Móveis,Juliana Mendes,Loja Centro,Caxias do Sul,RS,2,649.9,50.0,1249.8
+12,2025-06-25,Carla Oliveira,Webcam Full HD,Acessórios,Marcos Ribeiro,Loja Curitiba,Curitiba,PR,3,249.9,0.0,749.7
+13,2025-07-07,Eduarda Costa,Mousepad Gamer,Acessórios,Pedro Almeida,Loja Belo Horizonte,Belo Horizonte,MG,5,89.9,10.0,439.5
+14,2025-07-19,Gabriela Lima,Aspirador de Pó,Casa,Fernanda Gomes,Loja Porto Alegre,Porto Alegre,RS,1,599.9,0.0,599.9
+15,2025-08-04,Bruno Souza,Cafeteira Elétrica,Casa,Lucas Ferreira,Loja Porto Alegre,Porto Alegre,RS,2,349.9,20.0,679.8
+16,2025-08-16,Daniel Santos,Smartphone Samsung Galaxy,Eletrônicos,Juliana Mendes,Loja São Paulo,São Paulo,SP,1,2499.9,0.0,2499.9
+17,2025-09-09,Felipe Pereira,Notebook Lenovo Ideapad,Informática,Pedro Almeida,Loja Centro,Caxias do Sul,RS,2,3299.9,200.0,6399.8
+18,2025-10-12,Henrique Alves,Mouse Logitech,Informática,Fernanda Gomes,Loja Curitiba,Curitiba,PR,4,149.9,0.0,599.6
+19,2025-11-20,Isabela Rocha,Smart TV 50 polegadas,Eletrônicos,Marcos Ribeiro,Loja São Paulo,São Paulo,SP,2,2899.9,150.0,5649.8
+20,2025-12-05,João Martins,Mesa para Escritório,Móveis,Lucas Ferreira,Loja Belo Horizonte,Belo Horizonte,MG,1,799.9,0.0,799.9
